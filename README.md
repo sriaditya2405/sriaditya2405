@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+dashboard public link-https://public.tableau.com/views/AAAAstartupanalysis/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+story public link-https://public.tableau.com/views/AAAAstartupanalysis/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+video link-https://drive.google.com/file/d/13-ruv0drg3RUj55kve5vFmU3mnPR7TRL/view?usp=drivesdk
